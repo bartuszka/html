@@ -1,0 +1,2 @@
+- klonowanie repozytorium: git clone adres-repozytorium-na-serwerze
+- aby zobaczyć status swojej pracy w git, wpisz: git status
