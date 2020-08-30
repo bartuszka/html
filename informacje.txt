@@ -3,8 +3,10 @@
 - aby dodać plik do stage gita - czyli miejsca, z którego pliki trafią później do pamięci gita (bazy danych) wpisujesz:
 git add nazwa-pliku; git add nazwa-pliku.rozszerzenie czyli np. git add info.txt
 - dodanie zmian (lokalnie) do historii gita:
-  git commit -m "nazwa commitu"
+git commit -m "nazwa commitu"
 - aby cofnąć zmiany w pliku, wpisujesz:
 git checkout -- nazwa-pliku.rozszerzenienpgit checkout -- index.html
 (cofniętych zmian nie nie można przywrócić)
 git checkout -- cwiczenia/przyklad/index.html
+- wypchnięcie zmian do zdalnego repozytorium tj. serwer:
+git push
