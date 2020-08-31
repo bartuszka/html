@@ -10,3 +10,4 @@ git checkout -- nazwa-pliku.rozszerzenienpgit checkout -- index.html
 git checkout -- cwiczenia/przyklad/index.html
 - wypchnięcie zmian do zdalnego repozytorium tj. serwer:
 git push
+-aby dodać wszystkie pliki do poczekalni: git add -u
