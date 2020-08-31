@@ -1,0 +1,15 @@
+Będziesz tworzyć stronę html Twojej restauracji
+
+
+=====================Zadanie 1=====================
+
+1. Stwórz stronę html z kodowaniem utf-8 z zastosowaniem polskiego języka
+2. Stwórz nagłówek h1 zawierający nazwę Twojej restauracji
+3. Stwórz nagłówki h2 zawierające podstrony: "Strona główna", "Galeria", "Menu", "Kontakt"
+4. Pod nadłówkami "Strona główna" i "Kontakt" umieść odpowiednio po jednym akapicie:
+    akapit opisujący charakter Twojej restauracji oraz akapit zawierający dane kontaktowe
+5. W całym dokumencie między krótkimi jedno lub dwu literowymi wyrazami a następującymi po nich wyrazami umieść niełamliwe spacje
+6. Opis restauracji sformatuj tak, aby pierwsze 10 wyrazów łamało się wg podziału na sylaby
+7. W miejscach, które chcesz rozpocząć od nowej linii wewnątrz danego akapitu, wstaw znacznik łamania linii
+    Kolejny wyraz rozpocznij w następnej linijce kodu html. Znacznik łamania linii powinien być ostatnim znakiem w danej linii kodu html.
+8. Na końcu strony wstaw akapit o treści "Thank you" z zastosowaniem języka angielskiego.
